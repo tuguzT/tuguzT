@@ -4,7 +4,7 @@
 
 ## My top languages
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuguzT&count_private=true&langs_count=16&layout=compact&theme=dark)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuguzT&count_private=true&langs_count=16&layout=compact&theme=dark&exclude_repo=programmers-game)
 
 <!--
 **tuguzT/tuguzT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
