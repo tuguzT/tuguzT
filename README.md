@@ -8,4 +8,4 @@
 
 ### My top languages
 
-![My Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=tuguzT&count_private=true&langs_count=16&layout=compact&theme=dark&hide=jupyter%20notebook&role=OWNER,ORGANIZATION_MEMBER)
+![My Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=tuguzT&count_private=true&langs_count=16&exclude_repo=programmers-game&layout=compact&theme=dark&hide=jupyter%20notebook&role=OWNER,ORGANIZATION_MEMBER)
