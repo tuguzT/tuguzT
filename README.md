@@ -20,8 +20,8 @@ I have a [bachelor](https://english.mirea.ru/academics/institutes/institute-of-i
 
 ### Activity (GitHub stats)
 
-![tuguzT GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuguzT&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER)
+![tuguzT GitHub Stats](https://github-readme-stats-tuguzts-projects.vercel.app/api?username=tuguzT&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER)
 
 ### Top languages
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuguzT&langs_count=12&exclude_repo=programmers-game&layout=compact&theme=dark&hide=jupyter%20notebook&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
+![My Top Languages](https://github-readme-stats-tuguzts-projects.vercel.app/api/top-langs/?username=tuguzT&langs_count=12&exclude_repo=programmers-game&layout=compact&theme=dark&hide=jupyter%20notebook&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
