@@ -24,6 +24,6 @@ I have a [bachelor](https://english.mirea.ru/academics/institutes/institute-of-i
 
 ### Top languages
 
-Unfortunately, does not contain organization stats correctly, see anuraghazra/github-readme-stats#1
+Unfortunately, does not contain correct organization stats, see anuraghazra/github-readme-stats#1
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuguzT&langs_count=12&exclude_repo=programmers-game&layout=compact&theme=dark&hide=jupyter%20notebook&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
