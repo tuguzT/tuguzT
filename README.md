@@ -24,4 +24,4 @@ I have a [bachelor](https://english.mirea.ru/academics/institutes/institute-of-i
 
 ### Top languages
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuguzT&langs_count=16&exclude_repo=programmers-game&layout=compact&theme=dark&hide=jupyter%20notebook&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuguzT&langs_count=12&exclude_repo=programmers-game&layout=compact&theme=dark&hide=jupyter%20notebook&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
