@@ -5,15 +5,16 @@
 I am Timur Tugushev, [master](https://abit.itmo.ru/en/program/master/gamedev)'s student of [Game Development School](https://en.itmo.ru/en/department/509/Game_Development_School.htm) of "In-Game Technologies" specialization at [ITMO University](https://en.itmo.ru).
 
 ## 😃 Passionate about
-- 🎮 game engine development
+- 🎮 game development
+- ⚙️ game engine & graphics development
 - 🦀 Rust language (and a bit of C++)
 - 🔢 low level / system programming
 
 ## ⚒️ Now working on
 - ✏️ my thesis implementation (tightly linked with Entity Component System)
-- 💼 applying for full-time game engine / game developer (tools / gameplay) job
+- 💼 searching for full-time game engine / game developer (tools / gameplay) job
 
-## My stats
+## ℹ️ Statistics
 
 ### Activity (GitHub stats)
 
