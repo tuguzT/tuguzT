@@ -10,7 +10,7 @@ I am Timur Tugushev, [master](https://abit.itmo.ru/en/program/master/gamedev)'s 
 - 🔢 low level / system programming
 
 ## ⚒️ Now working on
-- ✏️ my thesis implementation
+- ✏️ my thesis implementation (tightly linked with Entity Component System)
 - 💼 applying for full-time game engine / game developer (tools / gameplay) job
 
 ## My stats
