@@ -13,7 +13,7 @@ I have a [bachelor](https://english.mirea.ru/academics/institutes/institute-of-i
 - 🔢 low level / system programming
 
 ## ⚒️ Now working on
-- ✏️ my thesis implementation (tightly linked with Entity Component System)
+- ✏️ my thesis implementation (linked with Entity Component System and powered by GPU)
 - 💼 searching for full-time game engine / game developer (tools / gameplay) job
 
 ## ℹ️ Statistics
