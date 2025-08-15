@@ -16,6 +16,8 @@ I have a [bachelor](https://english.mirea.ru/academics/institutes/institute-of-i
 - ✏️ my thesis implementation (linked with Entity Component System and powered by GPU)
 - 💼 searching for full-time game engine / game developer (tools / gameplay) job
 
+Additionally, educational projects of mine could be found in @tuguzT-education organization.
+
 ## ℹ️ Statistics
 
 ### Activity (GitHub stats)
