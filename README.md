@@ -14,7 +14,6 @@ I have a [bachelor](https://english.mirea.ru/academics/institutes/institute-of-i
 
 ## ⚒️ Now working on
 - ✏️ my thesis implementation (linked with Entity Component System and powered by GPU)
-- 💼 searching for full-time game engine / game developer (tools / gameplay) job
 
 Additionally, educational projects of mine could be found at [@tuguzT-education](https://github.com/tuguzT-education) organization.
 
@@ -26,6 +25,6 @@ Additionally, educational projects of mine could be found at [@tuguzT-education]
 
 ### Top languages
 
-Unfortunately, does not contain correct organization stats, see anuraghazra/github-readme-stats#1
+Unfortunately, this one does not contain correct organization stats, see anuraghazra/github-readme-stats#1
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuguzT&langs_count=12&exclude_repo=programmers-game&layout=compact&theme=dark&hide=jupyter%20notebook&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
