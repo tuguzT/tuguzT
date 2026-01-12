@@ -25,6 +25,4 @@ Additionally, educational projects of mine could be found at [@tuguzT-education]
 
 ### Top languages
 
-Unfortunately, this one does not contain correct organization stats, see anuraghazra/github-readme-stats#1
-
-![My Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=tuguzT&langs_count=12&exclude_repo=programmers-game&layout=compact&theme=dark&hide=jupyter%20notebook&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
+![My Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=tuguzT&langs_count=12&exclude_repo=programmers-game,mirea-programmers-game&layout=compact&theme=dark&hide=jupyter%20notebook&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
