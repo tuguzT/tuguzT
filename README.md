@@ -21,10 +21,10 @@ Additionally, educational projects of mine could be found at [@tuguzT-education]
 
 ### Activity (GitHub stats)
 
-![tuguzT GitHub Stats](https://github-readme-stats-tuguzts-projects.vercel.app/api?username=tuguzT&show_icons=true&theme=dark&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
+![tuguzT GitHub Stats](https://github-stats-extended.vercel.app/api?username=tuguzT&show_icons=true&theme=dark&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
 
 ### Top languages
 
 Unfortunately, this one does not contain correct organization stats, see anuraghazra/github-readme-stats#1
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuguzT&langs_count=12&exclude_repo=programmers-game&layout=compact&theme=dark&hide=jupyter%20notebook&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
+![My Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=tuguzT&langs_count=12&exclude_repo=programmers-game&layout=compact&theme=dark&hide=jupyter%20notebook&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
