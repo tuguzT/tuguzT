@@ -9,7 +9,7 @@ I have a [bachelor](https://english.mirea.ru/academics/institutes/institute-of-i
 ## 😃 Passionate about
 - 🎮 game development
 - ⚙️ game engine & graphics development
-- 🦀 Rust language (and a bit of C++)
+- 🦀 Rust language
 - 🔢 low level / system programming
 
 ## ⚒️ Now working on
