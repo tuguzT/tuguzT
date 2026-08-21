@@ -5,8 +5,8 @@
 I am Timur Tugushev, a Computer Graphics developer programming in C++ at work / in Rust in my free time.
 
 I have:
-- a [bachelor](https://english.mirea.ru/academics/institutes/institute-of-information-technologies/training-program/bachelor-s-degree-programs/09-03-04-software-engineering/)'s degree in software engineering of "System and software engineering" specialization from [Russian Technological University](https://english.mirea.ru)
 - a [master](https://abit.itmo.ru/en/program/master/gamedev)'s degree in applied computer science of "In-Game Technologies" specialization of [Game Development School](https://en.itmo.ru/en/department/509/Game_Development_School.htm) at [ITMO University](https://en.itmo.ru)
+- a [bachelor](https://english.mirea.ru/academics/institutes/institute-of-information-technologies/training-program/bachelor-s-degree-programs/09-03-04-software-engineering/)'s degree in software engineering of "System and software engineering" specialization from [Russian Technological University](https://english.mirea.ru)
 
 ## 😃 Passionate about
 - 🎮 game development
